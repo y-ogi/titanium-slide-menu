@@ -8,11 +8,11 @@
         <target device="blackberry">false</target>
     </deployment-targets>
     <sdk-version>1.8.1</sdk-version>
-    <id>app.nojuku.net</id>
-    <name>nojuku-app2</name>
+    <id>slidemenu.f13.jp</id>
+    <name>slidemenu</name>
     <version>1.0</version>
     <publisher>ogi</publisher>
-    <url>http://nojuku.net</url>
+    <url>http://f13.jp</url>
     <description>not specified</description>
     <copyright>2012 by ogi</copyright>
     <icon>appicon.png</icon>
